@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @matvej
-- - 👀 I’m interested in Cars, especially Volvo
 - 🌱 I’m currently learning JavaScript
-- 📫 How to connect me Telegram: odInOkiJ_MalcHiK or Discord: odInOkiJ_MalcHiK#0386
+- 📫 How to connect me Telegram: @moti_xx
 
 <!---
 matvej2006/matvej2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
