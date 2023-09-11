@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @matvej
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning WordPress
 - 📫 How to connect me Telegram: @moti_xx
 
 <!---
